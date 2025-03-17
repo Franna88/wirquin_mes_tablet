@@ -1,70 +1,89 @@
-class Department {
-  final String id;
-  final String name;
-  final String description;
-  final List<Machine> machines;
+import 'package:flutter/material.dart';
 
-  Department({
-    required this.id,
-    required this.name,
-    required this.description,
-    required this.machines,
-  });
+enum ChecklistFrequency {
+  daily,
+  weekly,
+  monthly,
+  quarterly,
+  semiAnnual,
+  yearly,
 }
 
-class Machine {
-  final String id;
-  final String name;
-  final String number;
-  final List<ChecklistType> checklists;
+enum ChecklistCategory { im, bt, ter }
 
-  Machine({
-    required this.id,
-    required this.name,
-    required this.number,
-    required this.checklists,
-  });
-}
-
-enum ChecklistFrequency { daily, monthly, quarterly, sixMonthly }
-
-class ChecklistType {
-  final String id;
-  final String name;
-  final ChecklistFrequency frequency;
-  final List<ChecklistItem> items;
-  final DateTime lastCompleted;
-  final DateTime nextDue;
-
-  ChecklistType({
-    required this.id,
-    required this.name,
-    required this.frequency,
-    required this.items,
-    required this.lastCompleted,
-    required this.nextDue,
-  });
+enum CheckStatus {
+  notStarted,
+  passed,
+  failed,
+  needsAttention,
 }
 
 class ChecklistItem {
   final String id;
   final String description;
-  bool isCompleted;
-  bool? isPass;
-  String? failureNote;
-  List<String>? photos;
-  String? resolution;
-  DateTime? completedAt;
+  final String example;
+  CheckStatus status;
+  String? notes;
+  List<String> images;
 
   ChecklistItem({
     required this.id,
     required this.description,
-    this.isCompleted = false,
-    this.isPass,
-    this.failureNote,
-    this.photos,
-    this.resolution,
-    this.completedAt,
+    required this.example,
+    this.status = CheckStatus.notStarted,
+    this.notes,
+    this.images = const [],
+  });
+}
+
+class Checklist {
+  final String id;
+  final String name;
+  final ChecklistCategory category;
+  final ChecklistFrequency frequency;
+  final List<ChecklistItem> items;
+  final bool includesPreviousChecklist;
+
+  Checklist({
+    required this.id,
+    required this.name,
+    required this.category,
+    required this.frequency,
+    required this.items,
+    this.includesPreviousChecklist = false,
+  });
+
+  int get totalItems => items.length;
+  int get completedItems =>
+      items.where((item) => item.status != CheckStatus.notStarted).length;
+  int get failedItems =>
+      items.where((item) => item.status == CheckStatus.failed).length;
+  int get needsAttentionItems =>
+      items.where((item) => item.status == CheckStatus.needsAttention).length;
+  double get progress => totalItems > 0 ? completedItems / totalItems : 0.0;
+}
+
+class Machine {
+  final String id;
+  final String name;
+  final List<Checklist> checklists;
+
+  Machine({
+    required this.id,
+    required this.name,
+    required this.checklists,
+  });
+}
+
+class Department {
+  final String id;
+  final String name;
+  final List<Machine> machines;
+
+  Department({
+    required this.id,
+    required this.name,
+    required this.machines,
   });
 }
 

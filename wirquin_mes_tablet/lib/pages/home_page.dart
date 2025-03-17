@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'department_list_page.dart';
+import 'dashboard_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -12,6 +13,7 @@ class _HomePageState extends State<HomePage> {
   int _selectedIndex = 0;
 
   final List<Widget> _pages = [
+    const DashboardPage(),
     const DepartmentListPage(),
     const RepairsPage(),
     const NextChecklistsPage(),
@@ -35,6 +37,10 @@ class _HomePageState extends State<HomePage> {
         unselectedItemColor: Colors.grey,
         onTap: _onItemTapped,
         items: const [
+          BottomNavigationBarItem(
+            icon: Icon(Icons.dashboard),
+            label: 'Home',
+          ),
           BottomNavigationBarItem(
             icon: Icon(Icons.checklist),
             label: 'Checklist',

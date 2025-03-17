@@ -40,7 +40,8 @@ class _LoginPageState extends State<LoginPage> {
                 padding: const EdgeInsets.only(bottom: 48.0),
                 child: Image.asset(
                   'assets/images/download.png',
-                  height: 40,
+                  height: 120,
+                  fit: BoxFit.cover,
                 ),
               ),
               // Login Form
