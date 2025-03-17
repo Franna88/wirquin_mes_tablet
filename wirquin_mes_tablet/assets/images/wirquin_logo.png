@@ -1,0 +1,640 @@
+
+<!DOCTYPE html>
+<html class="html" lang="en-ZA"itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<meta name='robots' content='noindex, follow' />
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/bf2a62e0c69c0c903c509210/script.js"></script><meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- This site is optimized with the Yoast SEO plugin v21.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Wirquin Manufacturing South Africa</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Wirquin Manufacturing South Africa" />
+	<meta property="og:site_name" content="Wirquin Manufacturing South Africa" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.wirquin.co.za/#website","url":"https://www.wirquin.co.za/","name":"Wirquin Manufacturing South Africa","description":"Plumbing and  Sanitaryware accessories manufacturer","publisher":{"@id":"https://www.wirquin.co.za/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.wirquin.co.za/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-ZA"},{"@type":"Organization","@id":"https://www.wirquin.co.za/#organization","name":"Wirquin","url":"https://www.wirquin.co.za/","logo":{"@type":"ImageObject","inLanguage":"en-ZA","@id":"https://www.wirquin.co.za/#/schema/logo/image/","url":"https://www.wirquin.co.za/wp-content/uploads/2020/06/Logo-WIRQUIN.jpg","contentUrl":"https://www.wirquin.co.za/wp-content/uploads/2020/06/Logo-WIRQUIN.jpg","width":350,"height":96,"caption":"Wirquin"},"image":{"@id":"https://www.wirquin.co.za/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//www.wirquin.co.za' />
+<link rel="alternate" type="application/rss+xml" title="Wirquin Manufacturing South Africa &raquo; Feed" href="https://www.wirquin.co.za/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Wirquin Manufacturing South Africa &raquo; Comments Feed" href="https://www.wirquin.co.za/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.wirquin.co.za\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.wirquin.co.za/wp-includes/css/dist/block-library/style.min.css?ver=6.3.5' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.wirquin.co.za/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.1' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='oceanwp-style-css' href='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.wirquin.co.za/wp-content/themes/oceanwp-child-theme-master/style.css?ver=6.3.5' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-mini-cart-css' href='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min.css?ver=6.3.5' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css' href='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-woocommerce-css' href='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/css/woo/woocommerce.min.css?ver=6.3.5' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-star-font-css' href='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min.css?ver=6.3.5' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-quick-view-css' href='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=6.3.5' media='all' />
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
+</script>
+<!--n2css--><script src='https://www.wirquin.co.za/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script src='https://www.wirquin.co.za/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script src='https://www.wirquin.co.za/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='https://www.wirquin.co.za/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'></script>
+<script src='https://stats.wp.com/w.js?ver=202512' id='woo-tracks-js'></script>
+<script src='https://www.wirquin.co.za/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script src='https://www.wirquin.co.za/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.wirquin.co.za/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.wirquin.co.za/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.3.5" />
+<meta name="generator" content="WooCommerce 8.2.1" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.16.5; features: e_dom_optimization, e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7WBX166PNS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7WBX166PNS');
+</script>
+
+<!-- Facebook Pixel Code -->
+
+	<script>
+
+	!function(f,b,e,v,n,t,s)
+
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+	n.queue=[];t=b.createElement(e);t.async=!0;
+
+	t.src=v;s=b.getElementsByTagName(e)[0];
+
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+
+	'https://connect.facebook.net/en_US/fbevents.js');
+
+	fbq('init', '874898202844888');
+
+	fbq('track', 'PageView');
+
+	</script>
+
+<noscript>
+	<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=874898202844888&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->
+	<link rel="icon" href="https://www.wirquin.co.za/wp-content/uploads/2020/06/cropped-Logo-WIRQUIN-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.wirquin.co.za/wp-content/uploads/2020/06/cropped-Logo-WIRQUIN-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.wirquin.co.za/wp-content/uploads/2020/06/cropped-Logo-WIRQUIN-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.wirquin.co.za/wp-content/uploads/2020/06/cropped-Logo-WIRQUIN-1-270x270.jpg" />
+		<style id="wp-custom-css">
+			.woocommerce div.product p.price{font-size:36px;line-height:30px;font-weight:400;margin:20px 0 0;display:none}.woocommerce-variation-price{display:none}.woocommerce-variation-add-to-cart.variations_button.woocommerce-variation-add-to-cart-enabled{display:none}.woocommerce.woo-left-tabs div.product .woocommerce-tabs ul.tabs{text-align:left}a.wcmenucart.wcmenucart-hide{display:none!important}.woocommerce-variation-add-to-cart.variations_button.woocommerce-variation-add-to-cart-disabled{display:none}.woocommerce div.product .woocommerce-tabs{padding-top:0;clear:both}.amount{color:#57bf6d;display:none}div#tab-description H2{display:none}a.button{margin:0 10px 10px 0}div#tab-video iframe{width:100%;height:450px}body.home .page-header{display:none}.quantity.buttons_added{display:none}button.single_add_to_cart_button.button.alt{display:none}header.woocommerce-products-header{display:none}		</style>
+		<!-- OceanWP CSS -->
+<style type="text/css">
+/* General CSS */.woocommerce-MyAccount-navigation ul li a:before,.woocommerce-checkout .woocommerce-info a,.woocommerce-checkout #payment ul.payment_methods .wc_payment_method>input[type=radio]:first-child:checked+label:before,.woocommerce-checkout #payment .payment_method_paypal .about_paypal,.woocommerce ul.products li.product li.category a:hover,.woocommerce ul.products li.product .button:hover,.woocommerce ul.products li.product .product-inner .added_to_cart:hover,.product_meta .posted_in a:hover,.product_meta .tagged_as a:hover,.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce .oceanwp-grid-list a.active,.woocommerce .oceanwp-grid-list a:hover,.woocommerce .oceanwp-off-canvas-filter:hover,.widget_shopping_cart ul.cart_list li .owp-grid-wrap .owp-grid a.remove:hover,.widget_product_categories li a:hover ~ .count,.widget_layered_nav li a:hover ~ .count,.woocommerce ul.products li.product:not(.product-category) .woo-entry-buttons li a:hover,a:hover,a.light:hover,.theme-heading .text::before,.theme-heading .text::after,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#dc042b}.woocommerce .oceanwp-grid-list a.active .owp-icon use,.woocommerce .oceanwp-grid-list a:hover .owp-icon use,.single nav.post-navigation .nav-links .title .owp-icon use,.blog-entry.post .blog-entry-readmore a:hover .owp-icon use,body .contact-info-widget.default .owp-icon use,body .contact-info-widget.big-icons .owp-icon use{stroke:#dc042b}.woocommerce div.product div.images .open-image,.wcmenucart-details.count,.woocommerce-message a,.woocommerce-error a,.woocommerce-info a,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.owp-product-nav li a.owp-nav-link:hover,.woocommerce div.product.owp-tabs-layout-vertical .woocommerce-tabs ul.tabs li a:after,.woocommerce .widget_product_categories li.current-cat >a ~ .count,.woocommerce .widget_product_categories li.current-cat >a:before,.woocommerce .widget_layered_nav li.chosen a ~ .count,.woocommerce .widget_layered_nav li.chosen a:before,#owp-checkout-timeline .active .timeline-wrapper,.bag-style:hover .wcmenucart-cart-icon .wcmenucart-count,.show-cart .wcmenucart-cart-icon .wcmenucart-count,.woocommerce ul.products li.product:not(.product-category) .image-wrap .button,input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#dc042b}.thumbnail:hover .link-post-svg-icon{background-color:#dc042b}body .contact-info-widget.big-icons li:hover .owp-icon{background-color:#dc042b}.current-shop-items-dropdown{border-top-color:#dc042b}.woocommerce div.product .woocommerce-tabs ul.tabs li.active a{border-bottom-color:#dc042b}.wcmenucart-details.count:before{border-color:#dc042b}.woocommerce ul.products li.product .button:hover{border-color:#dc042b}.woocommerce ul.products li.product .product-inner .added_to_cart:hover{border-color:#dc042b}.woocommerce div.product .woocommerce-tabs ul.tabs li.active a{border-color:#dc042b}.woocommerce .oceanwp-grid-list a.active{border-color:#dc042b}.woocommerce .oceanwp-grid-list a:hover{border-color:#dc042b}.woocommerce .oceanwp-off-canvas-filter:hover{border-color:#dc042b}.owp-product-nav li a.owp-nav-link:hover{border-color:#dc042b}.widget_shopping_cart_content .buttons .button:first-child:hover{border-color:#dc042b}.widget_shopping_cart ul.cart_list li .owp-grid-wrap .owp-grid a.remove:hover{border-color:#dc042b}.widget_product_categories li a:hover ~ .count{border-color:#dc042b}.woocommerce .widget_product_categories li.current-cat >a ~ .count{border-color:#dc042b}.woocommerce .widget_product_categories li.current-cat >a:before{border-color:#dc042b}.widget_layered_nav li a:hover ~ .count{border-color:#dc042b}.woocommerce .widget_layered_nav li.chosen a ~ .count{border-color:#dc042b}.woocommerce .widget_layered_nav li.chosen a:before{border-color:#dc042b}#owp-checkout-timeline.arrow .active .timeline-wrapper:before{border-top-color:#dc042b;border-bottom-color:#dc042b}#owp-checkout-timeline.arrow .active .timeline-wrapper:after{border-left-color:#dc042b;border-right-color:#dc042b}.bag-style:hover .wcmenucart-cart-icon .wcmenucart-count{border-color:#dc042b}.bag-style:hover .wcmenucart-cart-icon .wcmenucart-count:after{border-color:#dc042b}.show-cart .wcmenucart-cart-icon .wcmenucart-count{border-color:#dc042b}.show-cart .wcmenucart-cart-icon .wcmenucart-count:after{border-color:#dc042b}.woocommerce ul.products li.product:not(.product-category) .woo-product-gallery .active a{border-color:#dc042b}.woocommerce ul.products li.product:not(.product-category) .woo-product-gallery a:hover{border-color:#dc042b}.widget-title{border-color:#dc042b}blockquote{border-color:#dc042b}#searchform-dropdown{border-color:#dc042b}.dropdown-menu .sub-menu{border-color:#dc042b}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#dc042b}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#dc042b}.social-widget li.oceanwp-email a:hover{border-color:#dc042b}#respond #cancel-comment-reply-link:hover{border-color:#dc042b}body .contact-info-widget.big-icons li:hover i{border-color:#dc042b}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#dc042b}blockquote,.wp-block-quote{border-left-color:#dc042b}body .contact-info-widget.big-icons li:hover .owp-icon{border-color:#dc042b}.woocommerce div.product div.images .open-image:hover,.woocommerce-error a:hover,.woocommerce-info a:hover,.woocommerce-message a:hover,.woocommerce-message a:focus,.woocommerce .button:focus,.woocommerce ul.products li.product:not(.product-category) .image-wrap .button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,.button:focus,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background-color:#e0e0e0}.woocommerce table.shop_table,.woocommerce table.shop_table td,.woocommerce-cart .cart-collaterals .cart_totals tr td,.woocommerce-cart .cart-collaterals .cart_totals tr th,.woocommerce table.shop_table tth,.woocommerce table.shop_table tfoot td,.woocommerce table.shop_table tfoot th,.woocommerce .order_details,.woocommerce .shop_table.order_details tfoot th,.woocommerce .shop_table.customer_details th,.woocommerce .cart-collaterals .cross-sells,.woocommerce-page .cart-collaterals .cross-sells,.woocommerce .cart-collaterals .cart_totals,.woocommerce-page .cart-collaterals .cart_totals,.woocommerce .cart-collaterals h2,.woocommerce .cart-collaterals h2,.woocommerce .cart-collaterals h2,.woocommerce-cart .cart-collaterals .cart_totals .order-total th,.woocommerce-cart .cart-collaterals .cart_totals .order-total td,.woocommerce ul.order_details,.woocommerce .shop_table.order_details tfoot th,.woocommerce .shop_table.customer_details th,.woocommerce .woocommerce-checkout #customer_details h3,.woocommerce .woocommerce-checkout h3#order_review_heading,.woocommerce-checkout #payment ul.payment_methods,.woocommerce-checkout form.login,.woocommerce-checkout form.checkout_coupon,.woocommerce-checkout-review-order-table tfoot th,.woocommerce-checkout #payment,.woocommerce ul.order_details,.woocommerce #customer_login >div,.woocommerce .col-1.address,.woocommerce .col-2.address,.woocommerce-checkout .woocommerce-info,.woocommerce div.product form.cart,.product_meta,.woocommerce div.product .woocommerce-tabs ul.tabs,.woocommerce #reviews #comments ol.commentlist li .comment_container,p.stars span a,.woocommerce ul.product_list_widget li,.woocommerce .widget_shopping_cart .cart_list li,.woocommerce.widget_shopping_cart .cart_list li,.woocommerce ul.product_list_widget li:first-child,.woocommerce .widget_shopping_cart .cart_list li:first-child,.woocommerce.widget_shopping_cart .cart_list li:first-child,.widget_product_categories li a,.woocommerce .oceanwp-toolbar,.woocommerce .products.list .product,table th,table td,hr,.content-area,body.content-left-sidebar #content-wrap .content-area,.content-left-sidebar .content-area,#top-bar-wrap,#site-header,#site-header.top-header #search-toggle,.dropdown-menu ul li,.centered-minimal-page-header,.blog-entry.post,.blog-entry.grid-entry .blog-entry-inner,.blog-entry.thumbnail-entry .blog-entry-bottom,.single-post .entry-title,.single .entry-share-wrap .entry-share,.single .entry-share,.single .entry-share ul li a,.single nav.post-navigation,.single nav.post-navigation .nav-links .nav-previous,#author-bio,#author-bio .author-bio-avatar,#author-bio .author-bio-social li a,#related-posts,#comments,.comment-body,#respond #cancel-comment-reply-link,#blog-entries .type-page,.page-numbers a,.page-numbers span:not(.elementor-screen-only),.page-links span,body #wp-calendar caption,body #wp-calendar th,body #wp-calendar tbody,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .posts-thumbnails-widget li,body .tagcloud a{border-color:}body .contact-info-widget.big-icons .owp-icon,body .contact-info-widget.default .owp-icon{border-color:}a{color:#dc042b}a .owp-icon use{stroke:#dc042b}a:hover{color:#0c0000}a:hover .owp-icon use{stroke:#0c0000}#scroll-top{background-color:#dc042b}body .theme-button,body input[type="submit"],body button[type="submit"],body button,body .button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#dc042b}body .theme-button:hover,body input[type="submit"]:hover,body button[type="submit"]:hover,body button:hover,body .button:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:active,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:active,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:active{background-color:#cccccc}/* Header CSS */#site-header.medium-header .top-header-wrap{padding:5px 0 16px 0}.is-sticky #site-header.medium-header .top-header-wrap{padding:25px 0 25px 0}#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a{padding:0 10px 0 10px}#site-header.medium-header #medium-searchform .search-bg{background-color:#e8e8e8}#site-header.medium-header #medium-searchform button:hover{color:#ff1414}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:300px}@media (max-width:768px){#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:300px}}@media (max-width:480px){#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:270px}}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:300px}@media (max-width:768px){#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:300px}}@media (max-width:480px){#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:270px}}.effect-one #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-three #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after{background-color:#ff0000}.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{color:#ff0000}.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{text-shadow:10px 0 #ff0000,-10px 0 #ff0000}.effect-two #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-eight #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-eight #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after{background-color:#ff0000}.effect-six #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-six #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after{border-color:#ff0000}.effect-ten #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span,.effect-ten #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span{-webkit-box-shadow:0 0 10px 4px #ff0000;-moz-box-shadow:0 0 10px 4px #ff0000;box-shadow:0 0 10px 4px #ff0000}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#ff0000}#site-navigation-wrap .dropdown-menu >li >a:hover .owp-icon use,.oceanwp-mobile-menu-icon a:hover .owp-icon use,#searchform-header-replace-close:hover .owp-icon use{stroke:#ff0000}.dropdown-menu .sub-menu{min-width:500px}.dropdown-menu .sub-menu,#searchform-dropdown,.current-shop-items-dropdown{border-color:#ff0000}.dropdown-menu ul li a.menu-link:hover{background-color:#e0e0e0}.oceanwp-social-menu ul li a,.oceanwp-social-menu .colored ul li a,.oceanwp-social-menu .minimal ul li a,.oceanwp-social-menu .dark ul li a{font-size:10px}.oceanwp-social-menu ul li a .owp-icon,.oceanwp-social-menu .colored ul li a .owp-icon,.oceanwp-social-menu .minimal ul li a .owp-icon,.oceanwp-social-menu .dark ul li a .owp-icon{width:10px;height:10px}.oceanwp-social-menu ul li a{margin:0 5px 0 0}.oceanwp-social-menu.simple-social ul li a{background-color:#ffffff}.oceanwp-social-menu.simple-social ul li a{color:#dc042b}.oceanwp-social-menu.simple-social ul li a .owp-icon use{stroke:#dc042b}.oceanwp-social-menu.simple-social ul li a:hover{color:#dddddd!important}.oceanwp-social-menu.simple-social ul li a:hover .owp-icon use{stroke:#dddddd!important}body .sidr a:hover,body .sidr-class-dropdown-toggle:hover,body .sidr-class-dropdown-toggle .fa,body .sidr-class-menu-item-has-children.active >a,body .sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,#mobile-dropdown ul li a:hover,#mobile-dropdown ul li a .dropdown-toggle:hover,#mobile-dropdown .menu-item-has-children.active >a,#mobile-dropdown .menu-item-has-children.active >a >.dropdown-toggle,#mobile-fullscreen ul li a:hover,#mobile-fullscreen .oceanwp-social-menu.simple-social ul li a:hover{color:#000000}#mobile-fullscreen a.close:hover .close-icon-inner,#mobile-fullscreen a.close:hover .close-icon-inner::after{background-color:#000000}/* Top Bar CSS */#top-bar-content a:hover,#top-bar-social-alt a:hover{color:#000000}#top-bar-social li a{font-size:30px}#top-bar-social li a{color:#dd3333}#top-bar-social li a .owp-icon use{stroke:#dd3333}/* Footer Bottom CSS */#footer-bottom{background-color:#dc042b}#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover{color:#b5b5b5}/* Sidebar CSS */.widget-title{border-color:#000000}/* WooCommerce CSS */#owp-checkout-timeline .timeline-step{color:#cccccc}#owp-checkout-timeline .timeline-step{border-color:#cccccc}.product_meta .posted_in a:hover,.product_meta .tagged_as a:hover{color:#ff0000}.owp-product-nav li a.owp-nav-link:hover{background-color:#ff0000}.owp-product-nav li a.owp-nav-link:hover{border-color:#ff0000}.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover{color:#ff0000}.woocommerce div.product .woocommerce-tabs ul.tabs li.active a{color:#ff0000}.woocommerce div.product .woocommerce-tabs ul.tabs li.active a{border-color:#ff0000}.woocommerce-MyAccount-navigation ul li a:before{color:#ff0000}.woocommerce-MyAccount-navigation ul li a:hover{color:#ff0000}.woocommerce-checkout .woocommerce-info a{color:#ff0000}/* Typography CSS */#top-bar-content,#top-bar-social-alt{font-size:14px}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-weight:500;font-style:normal}.dropdown-menu ul li a.menu-link,#site-header.full_screen-header .fs-dropdown-menu ul.sub-menu li a{font-weight:400;font-style:normal;font-size:13px;line-height:2;text-transform:uppercase}
+</style>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0&appId=87937393843&autoLogAppEvents=1"></script>
+	
+	<script type="text/javascript">
+
+_linkedin_partner_id = "1080140";
+
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+
+</script><script type="text/javascript">
+
+(function(){var s = document.getElementsByTagName("script")[0];
+
+var b = document.createElement("script");
+
+b.type = "text/javascript";b.async = true;
+
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+
+s.parentNode.insertBefore(b, s);})();
+
+</script>
+
+<noscript>
+
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1080140&fmt=gif" />
+
+</noscript>
+</head>
+
+<body class="error404 wp-custom-logo wp-embed-responsive theme-oceanwp woocommerce-no-js oceanwp-theme dropdown-mobile medium-header-style default-breakpoint content-full-width content-max-width has-topbar has-breadcrumbs has-parallax-footer has-grid-list woo-dropdown-cat account-original-style elementor-default elementor-kit-8781">
+
+	
+	<div id="outer-wrap" class="site clr">
+
+		
+		<div id="wrap" class="clr">
+
+			
+
+<div id="top-bar-wrap" class="clr">
+
+	<div id="top-bar" class="clr container has-no-content">
+
+		
+		<div id="top-bar-inner" class="clr">
+
+			
+	<div id="top-bar-content" class="clr top-bar-left">
+
+		
+<div id="top-bar-nav" class="navigation clr">
+
+	<ul id="menu-top-menu" class="top-bar-menu dropdown-menu sf-menu"><li id="menu-item-16776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-16776"><a href="#" class="menu-link">Wirquin Group<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-8075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8075"><a href="https://www.wirquin.co.za/mission-and-ambition/" class="menu-link">Mission and Ambition</a></li>	<li id="menu-item-8062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8062"><a href="https://www.wirquin.co.za/our-values/" class="menu-link">Our Values</a></li>	<li id="menu-item-8050" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8050"><a href="https://www.wirquin.co.za/company-profile/" class="menu-link">Company Profile</a></li>	<li id="menu-item-8049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8049"><a href="https://www.wirquin.co.za/history/" class="menu-link">History</a></li>	<li id="menu-item-17814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17814"><a href="https://www.wirquin.co.za/paia-document/" class="menu-link">PAIA Document</a></li></ul>
+</li><li id="menu-item-16777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-16777"><a href="#" class="menu-link">World Presence<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-8080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8080"><a href="https://www.wirquin.co.za/wirquin-subsidiaries/" class="menu-link">Wirquin Subsidiaries</a></li></ul>
+</li><li id="menu-item-17151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-17151"><a href="#" class="menu-link">Innovation<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-8095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8095"><a href="https://www.wirquin.co.za/innovation-history/" class="menu-link">Innovation History</a></li>	<li id="menu-item-8094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8094"><a href="https://www.wirquin.co.za/dna-of-wirquin/" class="menu-link">DNA of Wirquin</a></li></ul>
+</li><li id="menu-item-8256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8256"><a href="https://www.wirquin.co.za/store-locator/" class="menu-link">Store Locator</a></li><li id="menu-item-17152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-17152"><a href="#" class="menu-link">Projects<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-8088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8088"><a href="https://www.wirquin.co.za/south-africa-projects/" class="menu-link">South Africa Projects</a></li>	<li id="menu-item-8087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8087"><a href="https://www.wirquin.co.za/europe-projects/" class="menu-link">Europe Projects</a></li>	<li id="menu-item-8116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8116"><a href="https://www.wirquin.co.za/charity-projects/" class="menu-link">Charity Projects</a></li></ul>
+</li><li id="menu-item-8155" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children dropdown menu-item-8155"><a href="https://www.wirquin.co.za/blog/" class="menu-link">Wirquin News<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-15903" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15903"><a href="https://www.wirquin.co.za/category/latest-news/" class="menu-link">Latest News</a></li>	<li id="menu-item-15906" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15906"><a href="https://www.wirquin.co.za/category/work-with-wirquin/" class="menu-link">Work with Wirquin</a></li></ul>
+</li><li id="menu-item-16778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16778"><a href="https://www.wirquin.co.za/category/tour/" class="menu-link">Wirquin Tour</a></li><li id="menu-item-642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-642"><a href="https://www.wirquin.co.za/contact-us/" class="menu-link">Contact Us</a></li></ul>
+</div>
+
+		
+			
+	</div><!-- #top-bar-content -->
+
+
+
+<div id="top-bar-social" class="clr top-bar-right">
+
+	<ul class="clr" aria-label="Social links">
+
+		<li class="oceanwp-facebook"><a href="https://www.facebook.com/wirquin.co.za/" aria-label="Facebook (opens in a new tab)" target="_blank" rel="noopener noreferrer"><i class=" fab fa-facebook" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-instagram"><a href="https://www.instagram.com/wirquinmanufacturing/" aria-label="Instagram (opens in a new tab)" target="_blank" rel="noopener noreferrer"><i class=" fab fa-instagram" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-linkedin"><a href="https://za.linkedin.com/company/wirquin-sa" aria-label="LinkedIn (opens in a new tab)" target="_blank" rel="noopener noreferrer"><i class=" fab fa-linkedin" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-youtube"><a href="https://www.youtube.com/channel/UChRhtQEtB9JxVAkIo_-d_0w" aria-label="Youtube (opens in a new tab)" target="_blank" rel="noopener noreferrer"><i class=" fab fa-youtube" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-email"><a href="mailto:en&#113;ui&#114;i&#101;s&#64;&#119;&#105;&#114;q&#117;in&#46;&#99;o&#46;z&#97;" aria-label="Send email (opens in your application)" target="_self"><i class=" icon-envelope" aria-hidden="true" role="img"></i></a></li>
+	</ul>
+
+</div><!-- #top-bar-social -->
+
+		</div><!-- #top-bar-inner -->
+
+		
+	</div><!-- #top-bar -->
+
+</div><!-- #top-bar-wrap -->
+
+
+			
+<header id="site-header" class="medium-header effect-one clr" data-height="74" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+
+	
+		
+
+<div id="site-header-inner" class="clr">
+
+	
+		<div class="top-header-wrap clr">
+			<div class="container clr">
+				<div class="top-header-inner clr">
+
+					
+						<div class="top-col clr col-1">
+
+							
+<div id="medium-searchform" class="header-searchform-wrap clr">
+	<form  id="medh-search" method="get" action="https://www.wirquin.co.za/" class="header-searchform" aria-label="Website search form">
+		<label for="medh-input">Search...</label>
+		<input aria-labelledby="medh-search medh-input" id="medh-input" type="search" name="s" autocomplete="off" value="" />
+		<button class="search-submit"><i class=" icon-magnifier" aria-hidden="true" role="img"></i><span class="screen-reader-text">Submit search</span></button>
+		<div class="search-bg"></div>
+					</form>
+</div><!-- #medium-searchform -->
+
+						</div>
+
+						
+						<div class="top-col clr col-2 logo-col">
+
+							
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		<a href="https://www.wirquin.co.za/" class="custom-logo-link" rel="home"><img width="350" height="96" src="https://www.wirquin.co.za/wp-content/uploads/2020/06/Logo-WIRQUIN.jpg" class="custom-logo" alt="Wirquin Manufacturing South Africa" decoding="async" srcset="https://www.wirquin.co.za/wp-content/uploads/2020/06/Logo-WIRQUIN.jpg 350w, https://www.wirquin.co.za/wp-content/uploads/2020/06/Logo-WIRQUIN-300x82.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+
+						</div>
+
+						
+						<div class="top-col clr col-3">
+
+							
+						</div>
+
+						
+				</div>
+			</div>
+		</div>
+
+		
+	<div class="bottom-header-wrap clr fixed-scroll">
+
+					<div id="site-navigation-wrap" class="clr center-menu">
+			
+			
+							<div class="container clr">
+				
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
+
+				<ul id="menu-main-menu_productsmobile" class="main-menu dropdown-menu sf-menu"><li id="menu-item-16753" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children dropdown menu-item-16753"><a href="https://www.wirquin.co.za/products/toilet-seats/" class="menu-link"><span class="text-wrap">Toilet Seats<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-16756" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16756"><a href="https://www.wirquin.co.za/products/toilet-seats/thermoset-toilet-seats-toilet-seats/" class="menu-link"><span class="text-wrap">Thermoset Toilet Seats</span></a></li>	<li id="menu-item-16755" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16755"><a href="https://www.wirquin.co.za/products/toilet-seats/thermoplastic-toilet-seats-toilet-seats/" class="menu-link"><span class="text-wrap">Thermoplastic Toilet Seats</span></a></li>	<li id="menu-item-16757" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16757"><a href="https://www.wirquin.co.za/products/toilet-seats/toilet-seat-spares-and-accessories-toilet-seats/" class="menu-link"><span class="text-wrap">Toilet seat spares and accessories</span></a></li></ul>
+</li><li id="menu-item-16745" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children dropdown menu-item-16745"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/" class="menu-link"><span class="text-wrap">Toilet Mechanisms + Cisterns<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-16747" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16747"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/dual-flush-kits/" class="menu-link"><span class="text-wrap">Dual Flush Kits</span></a></li>	<li id="menu-item-16748" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16748"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/dual-flush-mechanism-only/" class="menu-link"><span class="text-wrap">Dual flush mechanism only</span></a></li>	<li id="menu-item-16750" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16750"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/front-flush-kit/" class="menu-link"><span class="text-wrap">Front Flush Kit</span></a></li>	<li id="menu-item-16752" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16752"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/top-flush-kit/" class="menu-link"><span class="text-wrap">Top Flush Kit</span></a></li>	<li id="menu-item-16751" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16751"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/inlet-valves/" class="menu-link"><span class="text-wrap">Inlet Valves</span></a></li>	<li id="menu-item-16746" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16746"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/cistern-kits-toilet-mechanisms-cisterns/" class="menu-link"><span class="text-wrap">Cistern Kits</span></a></li>	<li id="menu-item-16749" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16749"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/flush-spares-and-accessories/" class="menu-link"><span class="text-wrap">Flush spares and accessories</span></a></li></ul>
+</li><li id="menu-item-16759" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children dropdown menu-item-16759"><a href="https://www.wirquin.co.za/products/wastes/" class="menu-link"><span class="text-wrap">Wastes<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-16769" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16769"><a href="https://www.wirquin.co.za/products/wastes/wetroom-wastes/" class="menu-link"><span class="text-wrap">Wetroom wastes</span></a></li>	<li id="menu-item-16765" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16765"><a href="https://www.wirquin.co.za/products/wastes/shower-wastes/" class="menu-link"><span class="text-wrap">Shower wastes</span></a></li>	<li id="menu-item-16763" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16763"><a href="https://www.wirquin.co.za/products/wastes/bath-wastes/" class="menu-link"><span class="text-wrap">Bath wastes</span></a></li>	<li id="menu-item-16761" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16761"><a href="https://www.wirquin.co.za/products/wastes/basin-wastes-traps-wastes/" class="menu-link"><span class="text-wrap">Basin wastes + traps</span></a></li>	<li id="menu-item-16766" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16766"><a href="https://www.wirquin.co.za/products/wastes/sink-wastes-traps-wastes/" class="menu-link"><span class="text-wrap">Sink wastes + traps</span></a></li>	<li id="menu-item-16767" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16767"><a href="https://www.wirquin.co.za/products/wastes/wetroom-waste-spares-accessories-wastes/" class="menu-link"><span class="text-wrap">Wetroom waste spares + accessories</span></a></li>	<li id="menu-item-16764" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16764"><a href="https://www.wirquin.co.za/products/wastes/shower-waste-spares-accessories-wastes/" class="menu-link"><span class="text-wrap">Shower waste spares + accessories</span></a></li>	<li id="menu-item-16762" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16762"><a href="https://www.wirquin.co.za/products/wastes/bath-waste-spares-accessories-wastes/" class="menu-link"><span class="text-wrap">Bath waste spares + accessories</span></a></li>	<li id="menu-item-16760" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16760"><a href="https://www.wirquin.co.za/products/wastes/basin-sink-waste-spares-accessories-wastes/" class="menu-link"><span class="text-wrap">Basin + sink waste spares + accessories</span></a></li></ul>
+</li><li id="menu-item-16741" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children dropdown menu-item-16741"><a href="https://www.wirquin.co.za/products/pan-pipe-connectors/" class="menu-link"><span class="text-wrap">Pan + Pipe Connectors<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-16742" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16742"><a href="https://www.wirquin.co.za/products/pan-pipe-connectors/pan-connectors/" class="menu-link"><span class="text-wrap">Pan connectors</span></a></li>	<li id="menu-item-16743" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16743"><a href="https://www.wirquin.co.za/products/pan-pipe-connectors/pipe-connectors/" class="menu-link"><span class="text-wrap">Pipe connectors</span></a></li>	<li id="menu-item-16744" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16744"><a href="https://www.wirquin.co.za/products/pan-pipe-connectors/waste-connectors/" class="menu-link"><span class="text-wrap">Waste connectors</span></a></li></ul>
+</li><li id="menu-item-16770" class="menu-item menu-item-type-taxonomy menu-item-object-product_tag menu-item-16770"><a href="https://www.wirquin.co.za/product-tag/black-touch-collection/" class="menu-link"><span class="text-wrap">Black Touch Collection</span></a></li><li id="menu-item-16771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16771"><a href="https://www.wirquin.co.za/catalogue/" class="menu-link"><span class="text-wrap">CATALOGUE</span></a></li></ul>
+			</nav><!-- #site-navigation -->
+
+							</div>
+				
+			
+					</div><!-- #site-navigation-wrap -->
+			
+		
+	
+		
+	
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+			<a href="https://www.wirquin.co.za/cart/" class="wcmenucart wcmenucart-hide">
+				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span>
+			</a>
+
+			
+		<a href="https://www.wirquin.co.za/#mobile-menu-toggle" class="mobile-menu"  aria-label="Mobile Menu">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+								<span class="oceanwp-text">Menu</span>
+				<span class="oceanwp-close-text">Close</span>
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+	
+
+		
+<div id="mobile-dropdown" class="clr" >
+
+	<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+
+		
+	<div id="mobile-nav" class="navigation clr">
+
+		<ul id="menu-main-menu_productsmobile-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-16753"><a href="https://www.wirquin.co.za/products/toilet-seats/">Toilet Seats</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16756"><a href="https://www.wirquin.co.za/products/toilet-seats/thermoset-toilet-seats-toilet-seats/">Thermoset Toilet Seats</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16755"><a href="https://www.wirquin.co.za/products/toilet-seats/thermoplastic-toilet-seats-toilet-seats/">Thermoplastic Toilet Seats</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16757"><a href="https://www.wirquin.co.za/products/toilet-seats/toilet-seat-spares-and-accessories-toilet-seats/">Toilet seat spares and accessories</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-16745"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/">Toilet Mechanisms + Cisterns</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16747"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/dual-flush-kits/">Dual Flush Kits</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16748"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/dual-flush-mechanism-only/">Dual flush mechanism only</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16750"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/front-flush-kit/">Front Flush Kit</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16752"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/top-flush-kit/">Top Flush Kit</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16751"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/inlet-valves/">Inlet Valves</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16746"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/cistern-kits-toilet-mechanisms-cisterns/">Cistern Kits</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16749"><a href="https://www.wirquin.co.za/products/toilet-mechanisms-cisterns/flush-spares-and-accessories/">Flush spares and accessories</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-16759"><a href="https://www.wirquin.co.za/products/wastes/">Wastes</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16769"><a href="https://www.wirquin.co.za/products/wastes/wetroom-wastes/">Wetroom wastes</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16765"><a href="https://www.wirquin.co.za/products/wastes/shower-wastes/">Shower wastes</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16763"><a href="https://www.wirquin.co.za/products/wastes/bath-wastes/">Bath wastes</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16761"><a href="https://www.wirquin.co.za/products/wastes/basin-wastes-traps-wastes/">Basin wastes + traps</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16766"><a href="https://www.wirquin.co.za/products/wastes/sink-wastes-traps-wastes/">Sink wastes + traps</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16767"><a href="https://www.wirquin.co.za/products/wastes/wetroom-waste-spares-accessories-wastes/">Wetroom waste spares + accessories</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16764"><a href="https://www.wirquin.co.za/products/wastes/shower-waste-spares-accessories-wastes/">Shower waste spares + accessories</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16762"><a href="https://www.wirquin.co.za/products/wastes/bath-waste-spares-accessories-wastes/">Bath waste spares + accessories</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16760"><a href="https://www.wirquin.co.za/products/wastes/basin-sink-waste-spares-accessories-wastes/">Basin + sink waste spares + accessories</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-16741"><a href="https://www.wirquin.co.za/products/pan-pipe-connectors/">Pan + Pipe Connectors</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16742"><a href="https://www.wirquin.co.za/products/pan-pipe-connectors/pan-connectors/">Pan connectors</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16743"><a href="https://www.wirquin.co.za/products/pan-pipe-connectors/pipe-connectors/">Pipe connectors</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16744"><a href="https://www.wirquin.co.za/products/pan-pipe-connectors/waste-connectors/">Waste connectors</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_tag menu-item-16770"><a href="https://www.wirquin.co.za/product-tag/black-touch-collection/">Black Touch Collection</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16771"><a href="https://www.wirquin.co.za/catalogue/">CATALOGUE</a></li>
+</ul>
+	</div>
+
+
+<div id="mobile-menu-search" class="clr">
+	<form aria-label="Search this website" method="get" action="https://www.wirquin.co.za/" class="mobile-searchform">
+		<input aria-label="Insert search query" value="" class="field" id="ocean-mobile-search-1" type="search" name="s" autocomplete="off" placeholder="Search" />
+		<button aria-label="Submit search" type="submit" class="searchform-submit">
+			<i class=" icon-magnifier" aria-hidden="true" role="img"></i>		</button>
+					</form>
+</div><!-- .mobile-menu-search -->
+
+	</nav>
+
+</div>
+
+	</div>
+
+</div><!-- #site-header-inner -->
+
+
+		
+		
+</header><!-- #site-header -->
+
+
+						
+			<main id="main" class="site-main clr" >
+
+				
+
+<header class="page-header">
+
+	
+	<div class="container clr page-header-inner">
+
+		
+			<h1 class="page-header-title clr" itemprop="headline">404: Page Not Found</h1>
+
+			
+		
+		<nav role="navigation" aria-label="Breadcrumbs" class="site-breadcrumbs clr position-under-title"><ol class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li class="trail-item trail-begin" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="https://www.wirquin.co.za" rel="home" aria-label="Home" itemprop="item"><span itemprop="name"><i class=" icon-home" aria-hidden="true" role="img"></i><span class="breadcrumb-home has-icon">Home</span></span></a><span class="breadcrumb-sep">></span><meta itemprop="position" content="1" /></li><li class="trail-item trail-end" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a span href="#"><span><span class="breadcrumb-error">404 Not Found</span></span></span></a><meta itemprop="position" content="2" /></li></ol></nav>
+	</div><!-- .page-header-inner -->
+
+	
+	
+</header><!-- .page-header -->
+
+
+						
+						<div id="content-wrap" class="container clr">
+
+							
+							<div id="primary" class="content-area clr">
+
+								
+								<div id="content" class="clr site-content">
+
+									
+									<article class="entry clr">
+
+										
+												<div class="error404-content clr">
+													
+													<h2 class="error-title">This page could not be found!</h2>
+													<p class="error-text">We are sorry. But the page you are looking for is not available.<br />Perhaps you can try a new search.</p>
+													
+<form aria-label="Search this website" role="search" method="get" class="searchform" action="https://www.wirquin.co.za/">	
+	<input aria-label="Insert search query" type="search" id="ocean-search-form-2" class="field" autocomplete="off" placeholder="Search" name="s">
+		</form>
+													<a class="error-btn button" href="https://www.wirquin.co.za/">Back To Homepage</a>
+
+												</div><!-- .error404-content -->
+
+												
+									</article><!-- .entry -->
+
+									
+								</div><!-- #content -->
+
+								
+							</div><!-- #primary -->
+
+							
+						</div><!-- #content-wrap -->
+
+						
+
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer parallax-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-widgets" class="oceanwp-row clr">
+
+	
+	<div class="footer-widgets-inner container">
+
+					<div class="footer-box span_1_of_4 col col-1">
+							</div><!-- .footer-one-box -->
+
+							<div class="footer-box span_1_of_4 col col-2">
+									</div><!-- .footer-one-box -->
+				
+							<div class="footer-box span_1_of_4 col col-3 ">
+									</div><!-- .footer-one-box -->
+				
+							<div class="footer-box span_1_of_4 col col-4">
+									</div><!-- .footer-box -->
+				
+			
+	</div><!-- .container -->
+
+	
+</div><!-- #footer-widgets -->
+
+
+
+<div id="footer-bottom" class="clr">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+			<div id="footer-bottom-menu" class="navigation clr">
+
+				<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454"><a href="https://www.wirquin.co.za/contact-us/">Contact Us</a></li>
+</ul></div>
+			</div><!-- #footer-bottom-menu -->
+
+			
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				Copyright Wirquin South Africa Manufacturing			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+
+
+<div id="owp-qv-wrap">
+	<div class="owp-qv-container">
+		<div class="owp-qv-content-wrap">
+			<div class="owp-qv-content-inner">
+				<a href="#" class="owp-qv-close" aria-label="Close quick preview">×</a>
+				<div id="owp-qv-content" class="woocommerce single-product"></div>
+			</div>
+		</div>
+	</div>
+	<div class="owp-qv-overlay"></div>
+</div>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script src='https://www.wirquin.co.za/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.1' id='swv-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/www.wirquin.co.za\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='https://www.wirquin.co.za/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.1' id='contact-form-7-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.2.1' id='jquery-blockui-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.2.1' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='https://www.wirquin.co.za/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.2.1' id='woocommerce-js'></script>
+<script id='mailchimp-woocommerce-js-extra'>
+var mailchimp_public_data = {"site_url":"https:\/\/www.wirquin.co.za","ajax_url":"https:\/\/www.wirquin.co.za\/wp-admin\/admin-ajax.php","disable_carts":"","subscribers_only":"","language":"en","allowed_to_set_cookies":"1"};
+</script>
+<script src='https://www.wirquin.co.za/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=3.2.03' id='mailchimp-woocommerce-js'></script>
+<script src='https://www.wirquin.co.za/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script id='oceanwp-main-js-extra'>
+var oceanwpLocalize = {"nonce":"b23bae840b","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":null,"ajax_url":"https:\/\/www.wirquin.co.za\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.wirquin.co.za\/cart\/","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"off","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+</script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=1.0' id='oceanwp-main-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=1.0' id='oceanwp-drop-down-mobile-menu-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=1.0' id='ow-magnific-popup-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=1.0' id='oceanwp-lightbox-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=1.0' id='ow-flickity-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=1.0' id='oceanwp-slider-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=1.0' id='oceanwp-scroll-effect-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=1.0' id='oceanwp-scroll-top-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/select.min.js?ver=1.0' id='oceanwp-select-js'></script>
+<script id='oceanwp-woocommerce-custom-features-js-extra'>
+var oceanwpLocalize = {"nonce":"b23bae840b","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":null,"ajax_url":"https:\/\/www.wirquin.co.za\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.wirquin.co.za\/cart\/","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"off","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+</script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=1.0' id='oceanwp-woocommerce-custom-features-js'></script>
+<script src='https://www.google.com/recaptcha/api.js?render=6LfmjSUcAAAAAFkop8c1_IqbV8qLTkNlpEZLYqnw&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script id='wpcf7-recaptcha-js-extra'>
+var wpcf7_recaptcha = {"sitekey":"6LfmjSUcAAAAAFkop8c1_IqbV8qLTkNlpEZLYqnw","actions":{"homepage":"homepage","contactform":"contactform"}};
+</script>
+<script src='https://www.wirquin.co.za/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.1' id='wpcf7-recaptcha-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-cat-widget.min.js?ver=1.0' id='oceanwp-woo-cat-widget-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-quick-view.min.js?ver=1.0' id='oceanwp-woo-quick-view-js'></script>
+<script src='https://www.wirquin.co.za/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='https://www.wirquin.co.za/wp-includes/js/wp-util.min.js?ver=6.3.5' id='wp-util-js'></script>
+<script id='wc-add-to-cart-variation-js-extra'>
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your basket.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+</script>
+<script src='https://www.wirquin.co.za/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=8.2.1' id='wc-add-to-cart-variation-js'></script>
+<script src='https://www.wirquin.co.za/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.8.2.1' id='flexslider-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_f95b481b6127d3c8a69201d236fc77bf","fragment_name":"wc_fragments_f95b481b6127d3c8a69201d236fc77bf","request_timeout":"5000"};
+</script>
+<script src='https://www.wirquin.co.za/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=8.2.1' id='wc-cart-fragments-js'></script>
+</body>
+</html>

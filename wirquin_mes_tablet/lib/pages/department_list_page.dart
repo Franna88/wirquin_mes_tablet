@@ -53,19 +53,51 @@ class DepartmentListPage extends StatelessWidget {
           ),
         ],
       ),
-      body: GridView.builder(
-        padding: const EdgeInsets.all(16),
-        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-          crossAxisCount: 2,
-          childAspectRatio: 1.5,
-          crossAxisSpacing: 16,
-          mainAxisSpacing: 16,
-        ),
-        itemCount: _mockDepartments.length,
-        itemBuilder: (context, index) {
-          final department = _mockDepartments[index];
-          return DepartmentCard(department: department);
-        },
+      body: Column(
+        children: [
+          Container(
+            width: double.infinity,
+            color: Theme.of(context).colorScheme.primary,
+            padding: const EdgeInsets.all(24),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text(
+                  'Department Selection',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 24,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+                const SizedBox(height: 8),
+                Text(
+                  'Select a department to view its machines and perform maintenance checks. Each department contains specific machines that require regular inspection.',
+                  style: TextStyle(
+                    color: Colors.white.withOpacity(0.9),
+                    fontSize: 16,
+                  ),
+                ),
+              ],
+            ),
+          ),
+          Expanded(
+            child: GridView.builder(
+              padding: const EdgeInsets.all(16),
+              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                crossAxisCount: 2,
+                childAspectRatio: 1.5,
+                crossAxisSpacing: 16,
+                mainAxisSpacing: 16,
+              ),
+              itemCount: _mockDepartments.length,
+              itemBuilder: (context, index) {
+                final department = _mockDepartments[index];
+                return DepartmentCard(department: department);
+              },
+            ),
+          ),
+        ],
       ),
     );
   }
