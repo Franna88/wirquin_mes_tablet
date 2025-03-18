@@ -19,11 +19,39 @@ class _ChecklistPageState extends State<ChecklistPage> {
   final ImagePicker _picker = ImagePicker();
   late List<ChecklistItem> items;
   int currentIndex = 0;
+  TextEditingController _notesController = TextEditingController();
 
   @override
   void initState() {
     super.initState();
     items = widget.checklist.items;
+    if (items.isNotEmpty && items[currentIndex].notes != null) {
+      _notesController.text = items[currentIndex].notes!;
+    }
+  }
+
+  @override
+  void dispose() {
+    _notesController.dispose();
+    super.dispose();
+  }
+
+  void _nextItem() {
+    if (currentIndex < items.length - 1) {
+      setState(() {
+        currentIndex++;
+        _notesController.text = items[currentIndex].notes ?? '';
+      });
+    }
+  }
+
+  void _previousItem() {
+    if (currentIndex > 0) {
+      setState(() {
+        currentIndex--;
+        _notesController.text = items[currentIndex].notes ?? '';
+      });
+    }
   }
 
   Future<void> _takePhoto() async {
@@ -52,6 +80,8 @@ class _ChecklistPageState extends State<ChecklistPage> {
 
   @override
   Widget build(BuildContext context) {
+    final currentItem = items[currentIndex];
+
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.checklist.name),
@@ -71,6 +101,7 @@ class _ChecklistPageState extends State<ChecklistPage> {
       ),
       body: Column(
         children: [
+          // Progress indicator
           LinearProgressIndicator(
             value: widget.checklist.progress,
             backgroundColor: Colors.grey[200],
@@ -78,66 +109,104 @@ class _ChecklistPageState extends State<ChecklistPage> {
           ),
           Padding(
             padding: const EdgeInsets.all(16.0),
-            child: Text(
-              'Progress: ${(widget.checklist.progress * 100).toStringAsFixed(1)}%',
-              style: Theme.of(context).textTheme.titleMedium,
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Text(
+                  'Progress: ${(widget.checklist.progress * 100).toStringAsFixed(1)}%',
+                  style: Theme.of(context).textTheme.titleMedium,
+                ),
+                Text(
+                  'Item ${currentIndex + 1} of ${items.length}',
+                  style: Theme.of(context).textTheme.titleMedium,
+                ),
+              ],
             ),
           ),
+          // Current item
           Expanded(
-            child: ListView.builder(
-              itemCount: items.length,
-              itemBuilder: (context, index) {
-                final item = items[index];
-                return Card(
-                  margin: const EdgeInsets.symmetric(
-                      horizontal: 16.0, vertical: 8.0),
+            child: SingleChildScrollView(
+              child: Padding(
+                padding: const EdgeInsets.all(16.0),
+                child: Card(
                   child: Padding(
                     padding: const EdgeInsets.all(16.0),
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          item.description,
-                          style: Theme.of(context).textTheme.titleMedium,
+                          currentItem.description,
+                          style: Theme.of(context).textTheme.titleLarge,
                         ),
                         const SizedBox(height: 8.0),
                         Text(
-                          'Example: ${item.example}',
-                          style: Theme.of(context).textTheme.bodyMedium,
+                          'Example: ${currentItem.example}',
+                          style:
+                              Theme.of(context).textTheme.bodyMedium?.copyWith(
+                                    color: Colors.grey[600],
+                                  ),
                         ),
                         const SizedBox(height: 16.0),
-                        SegmentedButton<CheckStatus>(
-                          segments: const [
-                            ButtonSegment<CheckStatus>(
-                              value: CheckStatus.passed,
-                              label: Text('Pass'),
-                              icon: Icon(Icons.check_circle),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                          children: [
+                            ElevatedButton.icon(
+                              style: ElevatedButton.styleFrom(
+                                backgroundColor:
+                                    currentItem.status == CheckStatus.passed
+                                        ? Colors.green
+                                        : Colors.grey,
+                                minimumSize: const Size(120, 50),
+                              ),
+                              onPressed: () {
+                                setState(() {
+                                  currentItem.status = CheckStatus.passed;
+                                });
+                              },
+                              icon: const Icon(Icons.check_circle),
+                              label: const Text('Pass'),
                             ),
-                            ButtonSegment<CheckStatus>(
-                              value: CheckStatus.failed,
-                              label: Text('Fail'),
-                              icon: Icon(Icons.cancel),
+                            ElevatedButton.icon(
+                              style: ElevatedButton.styleFrom(
+                                backgroundColor:
+                                    currentItem.status == CheckStatus.failed
+                                        ? Colors.red
+                                        : Colors.grey,
+                                minimumSize: const Size(120, 50),
+                              ),
+                              onPressed: () {
+                                setState(() {
+                                  currentItem.status = CheckStatus.failed;
+                                });
+                              },
+                              icon: const Icon(Icons.cancel),
+                              label: const Text('Fail'),
                             ),
-                            ButtonSegment<CheckStatus>(
-                              value: CheckStatus.needsAttention,
-                              label: Text('Attention'),
-                              icon: Icon(Icons.warning),
+                            ElevatedButton.icon(
+                              style: ElevatedButton.styleFrom(
+                                backgroundColor: currentItem.status ==
+                                        CheckStatus.needsAttention
+                                    ? Colors.yellow
+                                    : Colors.grey,
+                                minimumSize: const Size(120, 50),
+                              ),
+                              onPressed: () {
+                                setState(() {
+                                  currentItem.status =
+                                      CheckStatus.needsAttention;
+                                });
+                              },
+                              icon: const Icon(Icons.warning),
+                              label: const Text('Attention'),
                             ),
                           ],
-                          selected: {
-                            item.status == CheckStatus.notStarted
-                                ? CheckStatus.passed
-                                : item.status
-                          },
-                          onSelectionChanged: (Set<CheckStatus> selected) {
-                            setState(() {
-                              item.status = selected.first;
-                            });
-                          },
                         ),
-                        if (item.status != CheckStatus.passed) ...[
+                        if (currentItem.status == CheckStatus.failed ||
+                            currentItem.status ==
+                                CheckStatus.needsAttention) ...[
                           const SizedBox(height: 16.0),
                           TextField(
+                            controller: _notesController,
                             decoration: const InputDecoration(
                               labelText: 'Notes',
                               border: OutlineInputBorder(),
@@ -145,10 +214,9 @@ class _ChecklistPageState extends State<ChecklistPage> {
                             maxLines: 3,
                             onChanged: (value) {
                               setState(() {
-                                item.notes = value;
+                                currentItem.notes = value;
                               });
                             },
-                            controller: TextEditingController(text: item.notes),
                           ),
                           const SizedBox(height: 16.0),
                           Row(
@@ -166,20 +234,20 @@ class _ChecklistPageState extends State<ChecklistPage> {
                               ),
                             ],
                           ),
-                          if (item.images.isNotEmpty) ...[
+                          if (currentItem.images.isNotEmpty) ...[
                             const SizedBox(height: 16.0),
                             SizedBox(
                               height: 100,
                               child: ListView.builder(
                                 scrollDirection: Axis.horizontal,
-                                itemCount: item.images.length,
+                                itemCount: currentItem.images.length,
                                 itemBuilder: (context, imageIndex) {
                                   return Padding(
                                     padding: const EdgeInsets.only(right: 8.0),
                                     child: Stack(
                                       children: [
                                         Image.file(
-                                          File(item.images[imageIndex]),
+                                          File(currentItem.images[imageIndex]),
                                           height: 100,
                                           width: 100,
                                           fit: BoxFit.cover,
@@ -207,8 +275,27 @@ class _ChecklistPageState extends State<ChecklistPage> {
                       ],
                     ),
                   ),
-                );
-              },
+                ),
+              ),
+            ),
+          ),
+          // Navigation buttons
+          Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                ElevatedButton.icon(
+                  onPressed: currentIndex > 0 ? _previousItem : null,
+                  icon: const Icon(Icons.arrow_back),
+                  label: const Text('Previous'),
+                ),
+                ElevatedButton.icon(
+                  onPressed: currentIndex < items.length - 1 ? _nextItem : null,
+                  icon: const Icon(Icons.arrow_forward),
+                  label: const Text('Next'),
+                ),
+              ],
             ),
           ),
         ],
